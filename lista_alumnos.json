@@ -1,0 +1,24 @@
+[
+    {
+        "item_id": 7,
+        "matricula": 7,
+        "nombre": "pedro",
+        "Amaterno": "Jolote",
+        "Apaterno": "perez",
+        "edad": 24,
+        "correo": "lopers@gmail.com",
+        "telefono": 91917786,
+        "carrera": "TIC"
+    },
+    {
+        "item_id": 8,
+        "matricula": 4,
+        "nombre": "Luis Miguel",
+        "Amaterno": "Intzin",
+        "Apaterno": "L\u00f3pez",
+        "edad": 21,
+        "correo": "lopersmiguel9@gmail.com",
+        "telefono": 9191774562,
+        "carrera": "Redes inteligetes  ciberseguridad"
+    }
+]
